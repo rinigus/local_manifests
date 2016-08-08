@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<project path="device/lge/mako"
+name="cyanogenmod/android_device_lge_mako"
+revision="stable/cm-12.1-YOG4P"
+/>
+
+<project path="kernel/google/msm"
+name="rinigus/android_kernel_google_msm"
+revision="hybris-12.1" />
+
+<project path="rpm/"
+name="rinigus/droid-hal-mako" revision="hybris-12.1" />
+
+<project path="rpm/dhd"
+name="ballock/droid-hal-device" revision="hybris-12.1" />
+
+<project path="hybris/droid-configs"
+name="rinigus/droid-config-mako" revision="master" />
+
+<project path="hybris/droid-configs/droid-configs-device"
+name="mer-hybris/droid-hal-configs" revision="master" />
+
+<project path="hybris/droid-hal-version-mako"
+name="mer-hybris/droid-hal-version-mako" revision="master" />
+
+</manifest>
+
