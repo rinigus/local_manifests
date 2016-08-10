@@ -14,7 +14,7 @@ revision="hybris-12.1" />
 name="rinigus/droid-hal-mako" revision="hybris-12.1" />
 
 <project path="rpm/dhd"
-name="ballock/droid-hal-device" revision="hybris-12.1" />
+name="rinigus/droid-hal-device" revision="hybris-12.1" />
 
 <project path="hybris/droid-configs"
 name="rinigus/droid-config-mako" revision="master" />
