@@ -8,7 +8,7 @@ revision="stable/cm-12.1-YOG4P"
 
 <project path="kernel/google/msm"
 name="rinigus/android_kernel_google_msm"
-revision="hybris-12.1" />
+revision="hybris-12.1-lowfreq" />
 
 <project path="rpm/"
 name="rinigus/droid-hal-mako" revision="hybris-12.1" />
