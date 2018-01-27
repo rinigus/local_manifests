@@ -11,4 +11,6 @@
     <project name="mer-hybris/droid-hal-onyx" path="rpm/" revision="master"  />
     <project name="mer-hybris/droid-config-onyx" path="hybris/droid-configs" revision="master" />
     <project name="mer-hybris/droid-hal-version-onyx" path="hybris/droid-hal-version-onyx" revision="master" />
+
+    <project name="rinigus/droidmedia" path="external/droidmedia" revision="onyx_2.1.3.7" />
 </manifest>
